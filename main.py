@@ -110,7 +110,7 @@ def search_details():
 
 # ---------------------------- UI SETUP ------------------------------- #
 window = Tk()
-window.title("Password Generator")
+window.title("Password Manager")
 window.config(padx = 50, pady = 20)
 
 canvas = Canvas(width=200, height=200)
